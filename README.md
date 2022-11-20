@@ -20,13 +20,13 @@ ML Regression will be used to predict/estimate the fuel consumption and CO2 Emis
 The ML will be done using three different regression techniques: Simple Linear, Multiple Linear and Polynomial Regression.
 Then a Non-Linear Regression model will be fitted to China's GDP from 1960 to 2014 data.
 
-### Regression Example: Simple Linear Regression
+## Regression Example: Simple Linear Regression
 Explanation is available as comments in SLReg.py
 
-### Regression Example: Multiple Linear Regression
+## Regression Example: Multiple Linear Regression
 Explanation is available as comments in MLReg.py
 
-### Regression Example: Polynomial Regression
+## Regression Example: Polynomial Regression
 Further explanation than the one available as comments in PolynomialRegression.py:
 Whenever the data between the independent variable and dependent variable is shaped in a way
 that is not linear, YET if the function/relationship  can be modelled as polynomial function,
@@ -55,9 +55,11 @@ If Non-Linear regression is to be used, you can represent it as a polynomial reg
 transform it to a multiple linear regression.
 Or, you can simply execute the non-linear regression functions and classes in sklearn/linear_model
 
-### Regression Example: Non-Linear Regression
+## Regression Example: Non-Linear Regression
 
+### Non-Linear Regression usage
 ![Non-linear regression usage](https://user-images.githubusercontent.com/98900886/202928508-01670512-af42-426d-8341-5b7acf3b4dc9.png)
+### Logistic Function Formula
 ![Logistic Function Formula](https://user-images.githubusercontent.com/98900886/202928524-773809d6-2132-462a-a608-03f506491253.png)
 
 
