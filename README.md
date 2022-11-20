@@ -52,7 +52,7 @@ If Non-Linear regression is to be used, you can represent it as a polynomial reg
 transform it to a multiple linear regression. Or you can simply execute the non-linear regression functions and classes in sklearn/linear_model
 
 ## Regression Example: Non-Linear Regression
-Explanation is available as comments in `NonLinearRegression.py`
+Explanation is available as comments in `NonLinearRegression.py`  
 As its name states, non-linear regression is used to model a non-linear relationship between the independent variables and the dependent variable.
 Usually, representations of a non-linear relationship is in the form of a polynomial with several degrees.
 ### Logistic Function Formula used
