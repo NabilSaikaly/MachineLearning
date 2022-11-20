@@ -16,9 +16,9 @@ My Learning path in both supervised and unsupervised machine learning:
 
 ## Regression Examples:
 Source: IBM Machine Learning Course with Python on Coursera.  
-ML Regression will be used to predict/estimate the fuel consumption and CO2 Emissions of cars. A data relating CO2 Emissions and Fuel Consumption (FuelConsumptionCo2.csv) of already produced cars will be evaluated. The data will be splitted into training set and test set. We will train our ML Model using the training set, then evaluate the accuracy of the trained model using the test set. Once the required accuracy is obtained, the model will be used to predict/estimate an unknown value. 
-The ML will be done using three different regression techniques: Simple Linear, Multiple Linear and Polynomial Regression.
-Then a Non-Linear Regression model will be fitted to China's GDP from 1960 to 2014 data.
+ML Regression will be used to predict/estimate the fuel consumption and CO2 Emissions of cars. A data relating CO2 Emissions and Fuel Consumption (FuelConsumptionCo2.csv) of already produced cars will be evaluated. The data will be splitted into training set and test set. We will train our ML Model using the training set, then evaluate the accuracy of the trained model using the test set. Once the required accuracy is obtained, the model will be used to predict/estimate an unknown value.  
+The ML will be done using three different regression techniques: Simple Linear, Multiple Linear and Polynomial Regression.  
+A Non-Linear Regression model will be fitted to China's GDP from 1960 to 2014 data.
 
 ## Regression Example: Simple Linear Regression
 Explanation is available as comments in `SimpleLinearRegression.py`
