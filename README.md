@@ -21,13 +21,13 @@ The ML will be done using three different regression techniques: Simple Linear, 
 Then a Non-Linear Regression model will be fitted to China's GDP from 1960 to 2014 data.
 
 ## Regression Example: Simple Linear Regression
-Explanation is available as comments in SimpleLinearRegression.py
+Explanation is available as comments in `SimpleLinearRegression.py`
 
 ## Regression Example: Multiple Linear Regression
-Explanation is available as comments in MultipleLinearRegression.py
+Explanation is available as comments in `MultipleLinearRegression.py`
 
 ## Regression Example: Polynomial Regression
-Further explanation than the one available as comments in PolynomialRegression.py  
+Further explanation than the one available as comments in `PolynomialRegression.py` 
 Whenever the data between the independent variable and dependent variable is shaped in a way
 that is not linear, YET if the function/relationship can be modelled as polynomial function
 (i.e.) we can represent it in the form of:  
@@ -52,7 +52,7 @@ If Non-Linear regression is to be used, you can represent it as a polynomial reg
 transform it to a multiple linear regression. Or you can simply execute the non-linear regression functions and classes in sklearn/linear_model
 
 ## Regression Example: Non-Linear Regression
-Explanation is available as comments in NonLinearRegression.py
+Explanation is available as comments in `NonLinearRegression.py`
 As its name states, non-linear regression is used to model a non-linear relationship between the independent variables and the dependent variable.
 Usually, representations of a non-linear relationship is in the form of a polynomial with several degrees.
 ### Logistic Function Formula used
