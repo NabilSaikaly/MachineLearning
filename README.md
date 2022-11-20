@@ -37,7 +37,7 @@ We can use the Polynomial function and transform/express it to/as a multiple lin
 And by that we use the multiple linear regression training/testing procedures in order to solve a polynomial regression problem.
 
 Transformation is in the following:
-Suppose the Polynomial is **P(x) = (a3)(x^3) + (a2)(x^2) + (a1)(x) + (a4)**
+Suppose the Polynomial is **P(x) = (a3)(x^3) + (a2)(x^2) + (a1)(x) + (a4)**  
 we pose x1 = x;  x2 = x^2 and x3=x^3
 
 => P(x) = (a3)x3 + (a2)x2 + (a1)x1 + a4
