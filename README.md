@@ -27,7 +27,8 @@ Explanation is available as comments in SLReg.py
 Explanation is available as comments in MLReg.py
 
 ## Regression Example: Polynomial Regression
-Further explanation than the one available as comments in PolynomialRegression.py:
+Further explanation than the one available as comments in PolynomialRegression.py,
+
 Whenever the data between the independent variable and dependent variable is shaped in a way
 that is not linear, YET if the function/relationship  can be modelled as polynomial function,
 (i.e.) we can represent it in the form of (a_n)(x^n) + (a_n-1)(x^n-1) + ... + (a_1)(x^1) + (a_0)
@@ -56,10 +57,9 @@ transform it to a multiple linear regression.
 Or, you can simply execute the non-linear regression functions and classes in sklearn/linear_model
 
 ## Regression Example: Non-Linear Regression
-
-### Non-Linear Regression usage
-![Non-linear regression usage](https://user-images.githubusercontent.com/98900886/202928508-01670512-af42-426d-8341-5b7acf3b4dc9.png)
-### Logistic Function Formula
+As its name states, non-linear regression is used to model a non-linear relationship between the independent variables and the dependent variable.
+Usually, representations of a non-linear relationship is in the form of a polynomial with several degrees.
+### Logistic Function Formula used
 ![Logistic Function Formula](https://user-images.githubusercontent.com/98900886/202928524-773809d6-2132-462a-a608-03f506491253.png)
 
 
