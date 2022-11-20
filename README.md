@@ -1,6 +1,6 @@
 # Machine Learning 
-I created this repository to share all algorithms/techniques I am learning in the Machine Learning Field from various sources (Technical Documentations, Online Courses, Professional Trainings and more).
-This repository will be continiously enriched because I am still learning ML Algorithms and techniques.
+I created this repository to share all algorithms/techniques I am learning in the Machine Learning Field from various sources: Technical Documentations, online courses, Professional Trainings and more (All sources will be listed).  
+This repository will be continiously enriched because I am still learning ML Algorithms and techniques.  
 
 ## ML Techniques Coverage:
 
