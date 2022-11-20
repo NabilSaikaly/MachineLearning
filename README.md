@@ -21,23 +21,25 @@ The ML will be done using three different regression techniques: Simple Linear, 
 Then a Non-Linear Regression model will be fitted to China's GDP from 1960 to 2014 data.
 
 ## Regression Example: Simple Linear Regression
-Explanation is available as comments in SLReg.py
+Explanation is available as comments in SimpleLinearRegression.py
 
 ## Regression Example: Multiple Linear Regression
-Explanation is available as comments in MLReg.py
+Explanation is available as comments in MultipleLinearRegression.py
 
 ## Regression Example: Polynomial Regression
-Further explanation than the one available as comments in PolynomialRegression.py,
+Further explanation than the one available as comments in PolynomialRegression.py:
 
 Whenever the data between the independent variable and dependent variable is shaped in a way
-that is not linear, YET if the function/relationship  can be modelled as polynomial function,
-(i.e.) we can represent it in the form of (a_n)(x^n) + (a_n-1)(x^n-1) + ... + (a_1)(x^1) + (a_0)
-we can use the Polynomial function and transform/express it to/as a multiple linear regression
-And by that we would use the multiple linear regression training/testing procedures in order
-to solve a polynomial regression problem.
+that is not linear, YET if the function/relationship can be modelled as polynomial function
+(i.e.) we can represent it in the form of:
+**(a_n)(x^n) + (a_n-1)(x^n-1) + ... + (a_1)(x^1) + (a_0)**
+We can use the Polynomial function and transform/express it to/as a multiple linear regression
+And by that we use the multiple linear regression training/testing procedures in order to solve a polynomial regression problem.
+
 Transformation is in the following:
-Suppose the Polynomial is P(x) = (a3)(x^3) + (a2)(x^2) + (a1)(x) + (a4)
+Suppose the Polynomial is **P(x) = (a3)(x^3) + (a2)(x^2) + (a1)(x) + (a4)**
 we pose x1 = x;  x2 = x^2 and x3=x^3
+
 => P(x) = (a3)x3 + (a2)x2 + (a1)x1 + a4
 We can now say that x1, x2 and x3 are FEATURES and a1,a2,a3 are PARAMETERS to a 
 MULTIPLE linear regression. x1,x2,x3 are the INDEPENDENT VARIABLES! 
@@ -57,6 +59,7 @@ transform it to a multiple linear regression.
 Or, you can simply execute the non-linear regression functions and classes in sklearn/linear_model
 
 ## Regression Example: Non-Linear Regression
+Explanation is available as comments in NonLinearRegression.py
 As its name states, non-linear regression is used to model a non-linear relationship between the independent variables and the dependent variable.
 Usually, representations of a non-linear relationship is in the form of a polynomial with several degrees.
 ### Logistic Function Formula used
