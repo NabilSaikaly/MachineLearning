@@ -27,7 +27,7 @@ Explanation is available as comments in `SimpleLinearRegression.py`
 Explanation is available as comments in `MultipleLinearRegression.py`
 
 ## Regression Example: Polynomial Regression
-Further explanation than the one available as comments in `PolynomialRegression.py` 
+Further explanation than the one available as comments in `PolynomialRegression.py`  
 Whenever the data between the independent variable and dependent variable is shaped in a way
 that is not linear, YET if the function/relationship can be modelled as polynomial function
 (i.e.) we can represent it in the form of:  
